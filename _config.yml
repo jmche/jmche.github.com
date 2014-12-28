@@ -1,0 +1,10 @@
+markdown: kramdown
+#markdown: rdiscount
+permalink: /:year/:month/:day/:title.html
+#url: http://www.stbioinf.com
+name: "Jingmin"
+author: "Jingmin"
+highlighter: pygments
+safe: true
+paginate: 16
+auto: true
