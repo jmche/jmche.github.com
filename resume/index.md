@@ -16,7 +16,7 @@ Bioinformatics, Data mining, Big Data
 
 ## Education Background
 
-- 2012 ~ 2014, Master of Computer Science, Kyungpook National University (Krean)
+- 2012 ~ 2014, Master of Computer Science, Kyungpook National University (Korea)
 - 2011 ~ 2012, Exchange Student of Chonnam National University (Korea)
 - 2008 ~ 2012, Bachelor of Computer Science and Technology, Harbin University of Science and Technology (China)
 
